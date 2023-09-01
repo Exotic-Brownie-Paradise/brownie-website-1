@@ -1,0 +1,35 @@
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:medium ;
+  text-align: center;
+  }
+  .Header{
+    background-color: #92491e;;
+    display:flex;
+    justify-content: space-between;
+    }
+    body{
+      background-color: #8d8c61;
+    }
+    .grid{
+      
+        font-family:Georgia, 'Times New Roman', Times, serif;
+      display:flex;
+      flex-wrap: wrap;  
+        padding-left: 1cm;
+        
+      }
+      .grid img{
+        border: 2px solid #f7ddb7;
+        border-radius: 50px;
+      }
+      .product1{
+        
+        display:flex;
+        flex-wrap: wrap;
+        border: 2px;
+        border-radius: 50px;
+         font-family: 'Times New Roman';
+         padding-left: 1cm
+      }
+    
